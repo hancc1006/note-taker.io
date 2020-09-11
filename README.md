@@ -1,3 +1,12 @@
+Links:
+
+Heroku: https://express-note-taking-1.herokuapp.com/
+
+Github: https://github.com/hancc1006/note-taker.io
+
+Video:https://drive.google.com/file/d/1rt7xVpfVc6PmBHPSPL_pAGRA-atbsBWG/view?usp=sharing
+
+
 # Unit 11 Express Homework: Note Taker
 
 ## Description
